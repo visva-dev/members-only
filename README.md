@@ -33,13 +33,13 @@ To get this project up and running locally, you must already have ruby and rails
 -   Github: [@eypsrcnuygr](https://github.com/eypsrcnuygr)
 -   Twitter: [@eypsrcnuygr](https://twitter.com/eypsrcnuygr)
 -   LinkedIn: [eypsrcnuygr](https://www.linkedin.com/in/eypsrcnuygr/)
--   Gmail: <mailto:sercanuygur@gmail.com>
+-   Email: [Eyüp Sercan UYGUR](sercanuygur@gmail.com)
 
 👤 **Visvaldas Rapalis**
 
 -   Github: [@visva-dev](https://github.com/visva-dev)
 -   LinkedIn: [Visvaldas Rapalis](https://www.linkedin.com/in/visvaldas-rapalis/)
--   Gmail: <mailto:visva.rapalis@gmail.com>
+-   Email: [Visvaldas Rapalis](visva.rapalis@gmail.com)
 
 ## 🤝 Contributing
 
