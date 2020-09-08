@@ -1,6 +1,6 @@
 # Project-Members-only
 
-This is the project to learn about the authentication on Rails.
+This is the project to learn about the authentication on Ruby Rails.
 
 ![screenshot](./app/assets/images/Screenshotone.png)<br>
 ![screenshot](./app/assets/images/ScreenShottwo.png)<br>
