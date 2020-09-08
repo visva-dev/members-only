@@ -1,3 +1,27 @@
 // Place all the styles related to the Posts controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  text-align: center;
+  border: 5px solid black;
+  margin: 0 auto;
+  width: 30%;
+}
+
+table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(189, 228, 243);
+  margin: 0 auto;
+}
+
+tr {
+  font-size: 20px;
+
+  & td {
+    font-size: 16px;
+    font-weight: 600;
+  }
+}
