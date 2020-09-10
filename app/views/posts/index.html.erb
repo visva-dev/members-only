@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+<table>
+  <thead>
+    <tr>
+      <th>Posts</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @posts.each do |post| %>
+      <tr>
+        <% if user_signed_in? %>
+          <td><%= post.user.username %></td>
+        <% end %>
+        <td><%= post.post %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<% if !user_signed_in? %>
+  <%= link_to "Login", new_user_session_path, class:"button is-info" %>
+<% end %>
+<br>
+<%= link_to 'New Post', new_post_path %>
